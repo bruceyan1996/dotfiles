@@ -1,4 +1,5 @@
-alias cd .. = "out"
+alias
+alias .. = 'cd ..'
 alias vi = vim
 alias edit ='vim'
 alias gps ='git push'
