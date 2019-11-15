@@ -1,4 +1,4 @@
-alias
+
 alias .. = 'cd ..'
 alias vi = vim
 alias edit ='vim'
