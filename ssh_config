@@ -1,0 +1,6 @@
+#CANE 
+
+Host kuny
+  HostName login.engin.umich.edu
+  User kuny
+  Compression yes
